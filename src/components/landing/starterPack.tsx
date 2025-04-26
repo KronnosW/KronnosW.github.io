@@ -8,7 +8,7 @@ export function ContentSectionOne() {
         <div className="container mx-auto grid items-center lg:grid-cols-2">
           <div className="row-start-2 mt-12 lg:row-auto lg:mt-0 lg:pr-12">
             <Typography variant="h2" color="blue-gray" className="mb-6">
-              Basic Starter Pack
+              Basico
             </Typography>
             <Typography variant="lead" color="gray" className="mb-12">
               I always felt like I could do anything. That&apos;s the main thing
